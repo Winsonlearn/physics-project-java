@@ -75,4 +75,4 @@ Proyek ini dibuat untuk memenuhi kriteria tugas sebagai berikut:
     - Kalkulator untuk rumus fisika lainnya.
     - Menu untuk memilih jenis perhitungan.
     - Penanganan error yang lebih canggih.
-    - Jika menggunakan JavaFX, antarmuka pengguna grafis (GUI). 
+    - Jika menggunakan JavaFX, antarmuka pengguna grafis (GUI). # physics-project-java
