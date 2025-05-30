@@ -1,0 +1,24 @@
+# File kompilasi Java
+*.class
+
+# File log
+*.log
+
+# Direktori output build (misalnya, jika menggunakan Maven atau Gradle)
+/target/
+/build/
+/.gradle/
+/out/
+
+# File IDE spesifik
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db 
