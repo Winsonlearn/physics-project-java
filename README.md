@@ -10,7 +10,7 @@ Proyek ini adalah aplikasi Java sederhana berbasis konsol (OOP) yang menghitung 
 
 ## Tangkapan Layar Aplikasi
 
-![Tangkapan Layar Kalkulator Fisika](images/app_screenshot.png)
+![Tangkapan Layar Kalkulator Fisika](images/Screenshot%202025-05-30%20at%2023.12.07.png)
 
 ## Struktur Proyek
 
