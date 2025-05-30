@@ -63,16 +63,3 @@ project/
     Terima kasih telah menggunakan kalkulator ini!
     ```
 
-## Penilaian
-
-Proyek ini dibuat untuk memenuhi kriteria tugas sebagai berikut:
-- **Kreativitas dan orisinalitas:** Implementasi kalkulator gaya gravitasi dengan struktur OOP.
-- **Kerapian dan struktur kode (OOP):** Kode diorganisir dalam kelas `GravitationalForce` (untuk logika inti) dan `Main` (untuk interaksi pengguna), mencerminkan prinsip enkapsulasi dan pemisahan tanggung jawab.
-- **Fungsi program berjalan baik:** Termasuk validasi input dasar untuk mencegah error saat runtime dan memastikan perhitungan yang benar berdasarkan rumus yang diberikan.
-
-## Catatan
-- Proyek ini adalah contoh dasar. Anda dapat mengembangkannya lebih lanjut dengan menambahkan fitur lain seperti:
-    - Kalkulator untuk rumus fisika lainnya.
-    - Menu untuk memilih jenis perhitungan.
-    - Penanganan error yang lebih canggih.
-    - Jika menggunakan JavaFX, antarmuka pengguna grafis (GUI). # physics-project-java
