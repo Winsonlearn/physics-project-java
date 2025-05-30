@@ -8,6 +8,10 @@ Proyek ini adalah aplikasi Java sederhana berbasis konsol (OOP) yang menghitung 
 - Validasi input untuk memastikan nilai massa dan jarak positif.
 - Menampilkan hasil perhitungan gaya gravitasi dalam Newton (N) dengan notasi ilmiah.
 
+## Tangkapan Layar Aplikasi
+
+![Tangkapan Layar Kalkulator Fisika](images/app_screenshot.png)
+
 ## Struktur Proyek
 
 ```
